@@ -1,0 +1,6 @@
+{
+    "name": "Docs.Editor",
+    "includePlatforms": [
+        "Editor"
+    ]
+}
